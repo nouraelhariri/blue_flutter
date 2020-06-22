@@ -1,6 +1,6 @@
-import 'package:covidensa/core/consts.dart';
+
 import 'package:flutter/material.dart';
-import 'package:covidensa/pages/intro_page.dart';
+
 import 'pages/Blue.dart';
 
 void main() {
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
    //   home: IntroPage(),
-   home: MyHomePage(title: 'Flutter BLE Demo'),
+   home: UP(title: 'Flutter BLE Demo'),
     );
     
   }

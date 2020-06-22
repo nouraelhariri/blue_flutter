@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Nada\\Desktop\\mobile\\covid_ensa\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+            "outputFile": "C:\\Users\\Nada\\up\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Nada\\.gradle\\caches\\transforms-2\\files-2.1\\9b806cc71296e01a86c2cbc5d704cc19\\appcompat-1.0.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "source": "C:\\Users\\Nada\\.gradle\\caches\\transforms-2\\files-2.1\\d8e69336e21c6a428e8a9e9d99518477\\appcompat-1.0.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

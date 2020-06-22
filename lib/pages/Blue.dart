@@ -1,9 +1,9 @@
 import 'package:flutter_blue/flutter_blue.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_blue/flutter_blue.dart';
 
-class MyHomePage extends StatefulWidget {
- MyHomePage({Key key, this.title}) : super(key: key);
+
+class UP extends StatefulWidget {
+UP({Key key, this.title}) : super(key: key);
  final FlutterBlue flutterBlue = FlutterBlue.instance;
  final String title;
  final List<BluetoothDevice> devicesList = new List<BluetoothDevice>();
@@ -11,7 +11,7 @@ class MyHomePage extends StatefulWidget {
  _MyHomePageState createState() => _MyHomePageState();
 }
  
-class _MyHomePageState extends State<MyHomePage> {
+class _MyHomePageState extends State<UP> {
   
   
  
